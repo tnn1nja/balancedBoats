@@ -1,6 +1,0 @@
-name: BalancedBoats
-version: '1.0'
-main: net.tnn1nja.balancedboats.Main
-api-version: 1.19
-authors: [ tnn1nja ]
-description: A small plugin to make boats just a bit better
